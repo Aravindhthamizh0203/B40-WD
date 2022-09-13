@@ -1,0 +1,12 @@
+{
+    "files.exclude": {
+        "": true
+    },
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "git.autofetch": false,
+    "git.rebaseWhenSync": true,
+    "git.rememberPostCommitCommand": true,
+    "git.alwaysSignOff": false,
+    "git.autofetchPeriod": 180,
+    "git.enableSmartCommit": true
+}
